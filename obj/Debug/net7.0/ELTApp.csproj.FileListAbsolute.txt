@@ -1,0 +1,15 @@
+C:\Users\ozben\ELTApp\ELTApp\bin\Debug\net7.0\ELTApp.exe
+C:\Users\ozben\ELTApp\ELTApp\bin\Debug\net7.0\ELTApp.deps.json
+C:\Users\ozben\ELTApp\ELTApp\bin\Debug\net7.0\ELTApp.runtimeconfig.json
+C:\Users\ozben\ELTApp\ELTApp\bin\Debug\net7.0\ELTApp.dll
+C:\Users\ozben\ELTApp\ELTApp\bin\Debug\net7.0\ELTApp.pdb
+C:\Users\ozben\ELTApp\ELTApp\obj\Debug\net7.0\ELTApp.csproj.AssemblyReference.cache
+C:\Users\ozben\ELTApp\ELTApp\obj\Debug\net7.0\ELTApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozben\ELTApp\ELTApp\obj\Debug\net7.0\ELTApp.AssemblyInfoInputs.cache
+C:\Users\ozben\ELTApp\ELTApp\obj\Debug\net7.0\ELTApp.AssemblyInfo.cs
+C:\Users\ozben\ELTApp\ELTApp\obj\Debug\net7.0\ELTApp.csproj.CoreCompileInputs.cache
+C:\Users\ozben\ELTApp\ELTApp\obj\Debug\net7.0\ELTApp.dll
+C:\Users\ozben\ELTApp\ELTApp\obj\Debug\net7.0\refint\ELTApp.dll
+C:\Users\ozben\ELTApp\ELTApp\obj\Debug\net7.0\ELTApp.pdb
+C:\Users\ozben\ELTApp\ELTApp\obj\Debug\net7.0\ELTApp.genruntimeconfig.cache
+C:\Users\ozben\ELTApp\ELTApp\obj\Debug\net7.0\ref\ELTApp.dll
